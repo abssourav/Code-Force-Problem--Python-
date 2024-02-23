@@ -1,1 +1,1 @@
-#Codeforce Problem solved by Python.
+# Codeforce Problem solved by Python.
