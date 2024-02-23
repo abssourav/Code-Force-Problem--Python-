@@ -9,6 +9,8 @@ for i in digit:
 
 if(count==7 or count ==4):
     print("YES")
+#else:
+#    print("NO")
 else:
     print("NO")
 
